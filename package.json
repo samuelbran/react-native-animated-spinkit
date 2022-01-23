@@ -25,7 +25,7 @@
     "@types/react-native": "0.62.13",
     "eslint": "^7.16.0",
     "eslint-config-tienphaw": "^1.4.0",
-    "husky": "^5.0.6",
+    "husky": "^5.0.9",
     "pinst": "^2.1.1",
     "prettier": "^2.2.1",
     "react": "16.13.1",
