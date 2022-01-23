@@ -21,8 +21,8 @@ export default class Wave extends React.Component<SpinnerProps> {
       <AnimationContainer
         initAnimation={() => ({
           wave: (value) =>
-            stagger(100, 5, {
-              duration: 1200,
+            stagger(50, 5, {
+              duration: 700,
               value: value,
               keyframes: [0, 20, 40, 100],
             }),
